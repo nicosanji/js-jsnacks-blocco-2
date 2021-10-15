@@ -16,4 +16,12 @@
 const array1 = [15, 2, 7];
 const array2 = [5];
 
+let i=0;
+
+// CICLO WHILE per far aggiungere elementi dell'array1 all'array2 finchè non hanno la stessa lunghezza
+while(array2.length < array1.length){
+
+    // incremento
+    i++ 
+}
 
